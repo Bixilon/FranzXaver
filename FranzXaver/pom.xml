@@ -4,7 +4,7 @@
   <parent>
     <groupId>com.github.afester.javafx</groupId>
     <artifactId>FranzXaverLibrary</artifactId>
-    <version>0.1</version>
+    <version>0.2</version>
   </parent>
 
   <groupId>com.github.afester.javafx</groupId>

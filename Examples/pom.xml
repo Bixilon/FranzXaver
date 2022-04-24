@@ -14,7 +14,7 @@
   <name>${project.groupId}:${project.artifactId}</name>
   <version>0.1</version>
   <description>A JavaFX examples application with various examples based on pure JavaFX and also based on components from the FranzXaver library.</description>
-  <url>http://afester.github.io/FranzXaver/</url>
+  <url>https://afester.github.io/FranzXaver/</url>
 
   <build> 
     <plugins>
